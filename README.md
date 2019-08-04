@@ -17,6 +17,11 @@
 
 
 ・依存ライブラリ
+  
+  cv2
+  numpy
+  matplot.lib
+  PIL
 
 
 ・バージョン情報
