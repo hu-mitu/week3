@@ -35,3 +35,4 @@
     マウスイベントのコードを参考にした。また、終了処理も参考にした。
     
 ・gifアニメーション
+ ![ex](https://github.com/hu-mitu/week3/blob/master/FFT.gif)
